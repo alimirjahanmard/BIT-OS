@@ -3,8 +3,8 @@
 import os
 import time
 #this importion fo app
-import TIME
-import FILEMANAGER
+import esp32.TIME as TIME
+import esp32.FILEMANAGER as FILEMANAGER
 print("wlecome to BITOS")
 print("can use (help) in any time")
 while True:       
