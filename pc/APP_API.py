@@ -1,5 +1,4 @@
 import UI
-import BITOS
 import TIME
 import FILEMANAGER
 #print your app name here(in def apph)
