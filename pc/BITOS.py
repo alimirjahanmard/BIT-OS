@@ -4,6 +4,7 @@ import os
 import time
 import UI
 import APP_API
+time.sleep(5)
 #this importion fo app
 UI.csui()
 UI.wui()
