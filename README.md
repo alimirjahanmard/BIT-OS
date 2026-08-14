@@ -23,10 +23,10 @@ i want to making OS called **BITOS**
 >STORAGE: 64MB up to 512GB
 
 ------ for 64bit PC ------
->CPU: CORE I3 up to CORE ULTRA<br>
+>CPU: CORE Celeron up to CORE ULTRA<br>
 >GPU: 512MB up to infinite<br>
->RAM: 2GB up to infnite<br>
->STORAGE: 8GB up to infnite
+>RAM: 2GB up to infinite<br>
+>STORAGE: 8GB up to infinite 
 
 <br>
 
